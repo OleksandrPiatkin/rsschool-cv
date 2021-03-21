@@ -5,10 +5,10 @@ improving my skills in JavaScript.</em>
 <br>
 
 ## Contact
-[github.com/OleksandrPiatkin](github.com/OleksandrPiatkin)<br>
-oleksandr.piatkin@gmx.com <br>
-(+48) 574 576 388 <br>
-80-438, Gdansk <br>
+<img src="./img/GitHub-Mark-32px.png" alt="Git logo" width="14"/> [github.com/OleksandrPiatkin](github.com/OleksandrPiatkin)<br>
+<span style='color: black;' width="14">&#9993;</span> oleksandr.piatkin@gmx.com <br>
+<span style='color: black;' width="14">&#9742;</span> (+48) 574 576 388 <br>
+<img src="./img/pngegg.png" alt="Map logo" width="14"/> 80-438, Gdansk <br>
 <br>
 
 ## Skils
